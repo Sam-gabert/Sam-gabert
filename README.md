@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @w-tec
+- 👋 Hi, I’m @Sam-gabert
 - 📫 How to reach me wtec.wcorp.company@gmail.com
 
 <!---
-w-tec/w-tec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+samgabert/sam-gabert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
