@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Sam-gabert
-- 📫 How to reach me wtec.wcorp.company@gmail.com
 
 <!---
 samgabert/sam-gabert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
